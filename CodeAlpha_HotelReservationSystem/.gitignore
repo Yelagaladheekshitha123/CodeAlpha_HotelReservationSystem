@@ -1,0 +1,17 @@
+# Compiled class files
+out/
+*.class
+
+# Persisted reservation data (generated at runtime)
+data/*.dat
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS files
+.DS_Store
